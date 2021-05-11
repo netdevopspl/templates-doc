@@ -4,7 +4,7 @@
 
 W miejscu tym znajdują się różne szablony dokumentacji, które mogą być pisane w stylu DaaC (Documentation as a Code)
 
-- [Dokumentacja LLD](https://github.com/netdevopspl/templates-doc/Dokumentacja_LLD.md)
+- [Dokumentacja LLD](https://github.com/netdevopspl/templates-doc/blob/master/Dokumentacja_LLD.md)
 
 ## **KONTAKT**
 
